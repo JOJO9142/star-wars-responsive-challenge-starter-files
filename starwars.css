@@ -1,0 +1,13 @@
+
+
+.container {
+  background-color: grey;
+  height: 50px;
+  }
+  .title {
+  padding-top: 15px;
+  font-size: 18px;
+  font-weight: bold;
+  padding-left: 32px;
+  display: inline-block;
+  }
