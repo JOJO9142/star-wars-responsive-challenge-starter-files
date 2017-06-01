@@ -1,13 +1,33 @@
 
 
 .container {
-  background-color: grey;
-  height: 50px;
+  background-color: orange;
+  height: 70px;
   }
   .title {
   padding-top: 15px;
   font-size: 18px;
   font-weight: bold;
-  padding-left: 32px;
+  padding-left: 70px;
   display: inline-block;
+  }
+  nav div {
+  padding-top: 10px;
+  font-size: 9px;
+  font-weight: bold;
+  padding-left: 70px;
+  display: block;  
+  }
+  .card_wrap img{
+width: 100%;
+
+  }
+  .card_wrap {
+    width: 33.33%;
+    display: inline-block;
+    vertical-align: top;
+  }
+  .card_data {
+    margin: 10px;
+
   }
